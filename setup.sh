@@ -1,2 +1,5 @@
 # vim
-ln -sf ~/dotfiles/vim/.vimrc ~/.vimrc
+cp ./vim/.vimrc ~/.vimrc
+
+# tmux
+cp ./tmux/tmux.conf ~/.tmux.conf
