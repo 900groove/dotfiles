@@ -1,6 +1,8 @@
 colorscheme koehler
 set belloff=all
 set noswapfile
+set number
+set cursorline
 let mapleader=','
 let g:ctrlp_working_path_mode = 'ra'
 nmap <F5> :!python %<CR>
